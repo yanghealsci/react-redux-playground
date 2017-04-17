@@ -4,6 +4,9 @@
 ### installation
 ```npm install```
 
+### build
+```npm run dist```
+
 ### run
 ```npm start```
 
